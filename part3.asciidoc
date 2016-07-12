@@ -1,0 +1,14 @@
+[[part3]]
+[part]
+:numbered!:
+== Working with Services
+
+We saw in Part II how we can provision virtual machines from the WebUI. This process involves entering values for the many provisioning dialog options, such as our name and email address, and the desired configuration of the virtual machine; the number of CPUs, amount of memory, disk format, and vLAN for example.
+
+ManageIQ also enables us to create service catalogs from which we can provision preconfigured virtual machines from a single *Order* button (see <<p3i1>>).
+
+[[p3i1]]
+.Simple service catalog
+image::part3/images/screenshot1hd.png["Simple Service Catalog"]
+
+In Part III we'll learn about creating and using services.
